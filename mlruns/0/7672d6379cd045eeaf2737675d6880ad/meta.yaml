@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PI/Desktop/ETE_ML_Project_with_MLflow/mlruns/0/7672d6379cd045eeaf2737675d6880ad/artifacts
+end_time: 1690603522825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7672d6379cd045eeaf2737675d6880ad
+run_name: sedate-fowl-301
+run_uuid: 7672d6379cd045eeaf2737675d6880ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690603506732
+status: 3
+tags: []
+user_id: PI

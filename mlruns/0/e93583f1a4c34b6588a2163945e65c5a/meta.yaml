@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PI/Desktop/ETE_ML_Project_with_MLflow/mlruns/0/e93583f1a4c34b6588a2163945e65c5a/artifacts
+end_time: 1690603188555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e93583f1a4c34b6588a2163945e65c5a
+run_name: peaceful-whale-289
+run_uuid: e93583f1a4c34b6588a2163945e65c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690603168808
+status: 3
+tags: []
+user_id: PI
